@@ -12,6 +12,7 @@ You can reach me on GitHub, or on Twitter, @barecode
 
 ## "howto" guildes 
 
+* [howto-java-servlet](https://github.com/barecode/howto-java-servlet)
 * [howto-java-cronjobs](https://github.com/barecode/howto-java-cronjobs)
 * [howto-java-rest-api](https://github.com/barecode/howto-java-rest-api)
 
